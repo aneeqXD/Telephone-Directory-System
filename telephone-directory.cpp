@@ -1,13 +1,13 @@
 // TELEPHONE DIRECTORY SYSTEM
 
-#include <iostream.h>
-#include <fstream.h>
-#include <iomanip.h>
+#include <iostream>
+#include <fstream>
+#include <iomanip>
 #include <string.h>
 #include <stdlib.h>
 #include <conio.h>
 #include <stdio.h>
-#include <iomanip.h>
+#include <iomanip>
 #include <graphics.h>
 #include <dos.h>
 
